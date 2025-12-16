@@ -1,19 +1,22 @@
 ## 👋 About Me
 
-I’m a **full-stack developer** focused on building modern, fast, and scalable web applications.
+I’m a **Full-Stack Developer** focused on building modern, scalable web applications with clean architecture and smooth, well-crafted user experiences.
 
-I enjoy working on projects that combine **clean UI**, **smooth UX**, and **solid backend logic**. I care a lot about structure, performance, and making things feel polished, not just functional.
+I enjoy working across the stack, combining responsive and minimal UI design with solid backend logic. I care about code quality, performance, and creating systems that are easy to maintain and scale.
 
-### 🛠 What I work with
+### 🛠 Tech Stack
 
-* **Frontend:** React, TailwindCSS
+* **Frontend:** React, Tailwind CSS
 * **Backend:** Python, Flask
 * **Other:** REST APIs, automation, server-side logic
 
-### 🚀 What I’m building
+### 🌱 Currently
 
-* Full-stack web apps from idea to deployment
-* UI-heavy projects with smooth interactions
-* Systems that are scalable, clean, and maintainable
+* Improving scalability and system design
+* Refining UI and UX for production-ready apps
+* Continuously learning and shipping better code
 
-Always learning, always improving, and pushing for higher-quality code and design.
+### 🔗 Links
+
+* **X Account:** [https://x.com/iamm_theo](https://x.com/i777nq)
+* **Instagram:** [https://instagram.com/777nq](https://instagram.com/777nq)

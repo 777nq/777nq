@@ -18,5 +18,5 @@ I enjoy working across the stack, combining responsive and minimal UI design wit
 
 ### 🔗 Links
 
-* **X Account:** [https://x.com/iamm_theo](https://x.com/i777nq)
+* **Bluesky Account:** [https://bsky.app/profile/iamm_theo](https://bsky.app/profile/anothertheo.bsky.social)
 * **Instagram:** [https://instagram.com/777nq](https://instagram.com/777nq)
